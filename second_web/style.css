@@ -1,0 +1,16 @@
+/* table,td , th {
+    border: 2px solid black;
+} */
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid black;
+}
+
+tfoot{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
